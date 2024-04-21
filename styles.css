@@ -21,3 +21,5 @@ body {
         width: 100%; /* Set width to fill the entire screen on smaller devices */
     }
 }
+
+<head> <meta name="viewport" content="width=device-width, initial-scale=1"/> </head>
