@@ -9,4 +9,9 @@
     overflow: auto; /* Add overflow auto to enable scrolling if content exceeds container */
 }
 
-
+/* Media query for smaller screens */
+@media screen and (max-width: 768px) {
+    .pdf-container {
+        width: 100%; /* Set width to fill the entire screen on smaller devices */
+    }
+}
