@@ -1,0 +1,12 @@
+body {
+    background-color: #ffffff; /* Set the background color */
+    background-image: url('background-pattern.png'); /* Replace 'background-pattern.png' with the path to your background pattern image */
+    background-repeat: repeat;
+    color: #000000; /* Set the text color to black */
+ 
+
+.content {
+    padding: 20px; /* Add padding to create space around the content */
+}
+
+
