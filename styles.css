@@ -1,12 +1,12 @@
-body {
-    background-color: #ffffff; /* Set the background color */
-    background-image: url('background-pattern.png'); /* Replace 'background-pattern.png' with the path to your background pattern image */
-    background-repeat: repeat;
-    color: #000000; /* Set the text color to black */
- 
-
-.content {
-    padding: 20px; /* Add padding to create space around the content */
+.pdf-container {
+    background-color: #fff; /* Set white background */
+    margin-top: 20px; /* Adjust the margin as needed */
+    padding: 20px; /* Add padding */
+    border-radius: 8px; /* Add border radius */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Add box shadow */
+    max-width: 800px; /* Limit container width */
+    width: 90%; /* Set width to fill most of the screen */
+    overflow: auto; /* Add overflow auto to enable scrolling if content exceeds container */
 }
 
 
