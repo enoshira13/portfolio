@@ -1,5 +1,11 @@
+/* Set background pattern for the entire page */
+body {
+    background-image: url("background-pattern.png"); /* Replace with your background image */
+    background-repeat: repeat; /* Repeat the pattern vertically and horizontally */
+}
+
+/* Set background pattern for .pdf-container */
 .pdf-container {
-    background-color: #fff; /* Set white background */
     margin-top: 20px; /* Adjust the margin as needed */
     padding: 20px; /* Add padding */
     border-radius: 8px; /* Add border radius */
